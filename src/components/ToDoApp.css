@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+  }
+.main_container{
+    background-color:black;
+    min-height: 500px;
+}
+.input_box{
+    outline: none;
+    height: 37px;
+}
+
+.todo_text{
+    word-break: break-all;
+    white-space: pre-wrap;
+    text-align: left;
+}
